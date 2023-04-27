@@ -1,5 +1,5 @@
 # animal-trading-cards
-Animal Trading Cards Project for Udacity's Web Nanodegree Programs.
+Animal Trading Cards Project 
 
 <!-- # Archival Note
 This repository is deprecated; therefore, we are going to archive it.
